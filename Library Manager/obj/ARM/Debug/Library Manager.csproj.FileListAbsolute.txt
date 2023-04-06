@@ -1,0 +1,66 @@
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\App.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\BookListPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\DVDListPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\LoadingPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\MemberLoanPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\MemberSearchPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Library Manager.xr.xml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Library Manager.exe
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Library Manager.pdb
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\resources.pri
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\AppxManifest.xml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Core\Library Manager.exe
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Library Manager.build.appxrecipe
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\System.Runtime.dll
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\ARM\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\App.g.i.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\App.g.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\BookListPage.g.i.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\BookListPage.g.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\DVDListPage.g.i.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\DVDListPage.g.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\LoadingPage.g.i.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\LoadingPage.g.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberLoanPage.g.i.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberLoanPage.g.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberSearchPage.g.i.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberSearchPage.g.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\App.xaml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\BookListPage.xaml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\DVDListPage.xaml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\LoadingPage.xaml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberLoanPage.xaml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberSearchPage.xaml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\App.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\BookListPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\DVDListPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\LoadingPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberLoanPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MemberSearchPage.xbf
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\Library Manager.csproj.CopyComplete
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\Library Manager.exe
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\Library Manager.pdb
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\priconfig.xml
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\unfiltered.layout.resfiles
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\filtered.layout.resfiles
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\filtered.layout.resfiles.intermediate
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\excluded.layout.resfiles
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\excluded.layout.resfiles.intermediate
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\resources.resfiles
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\pri.resfiles
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\qualifiers.txt
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\obj\ARM\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
