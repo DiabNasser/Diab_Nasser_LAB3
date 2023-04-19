@@ -32,8 +32,5 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button Content="Add Book" Click="AddBookButton_Click"/>
-        </StackPanel>
     </Grid>
 </Page>

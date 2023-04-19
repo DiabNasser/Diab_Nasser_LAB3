@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-04-06T01:20:32.229</Modified>
+      <Modified>2023-04-19T00:29:39.071</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\Library Manager.exe">
       <PackagePath>entrypoint\Library Manager.exe</PackagePath>
-      <Modified>2023-04-06T01:20:30.843</Modified>
+      <Modified>2023-04-19T00:29:38.371</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -90,31 +90,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\Library Manager.xr.xml">
       <PackagePath>Library Manager.xr.xml</PackagePath>
-      <Modified>2023-04-04T23:09:08.994</Modified>
+      <Modified>2023-04-19T00:16:23.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-04-06T01:20:30.636</Modified>
+      <Modified>2023-04-19T00:29:38.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\BookListPage.xbf">
       <PackagePath>BookListPage.xbf</PackagePath>
-      <Modified>2023-04-06T01:20:30.636</Modified>
+      <Modified>2023-04-19T00:29:38.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\DVDListPage.xbf">
       <PackagePath>DVDListPage.xbf</PackagePath>
-      <Modified>2023-04-06T01:20:30.636</Modified>
+      <Modified>2023-04-19T00:29:38.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\LoadingPage.xbf">
       <PackagePath>LoadingPage.xbf</PackagePath>
-      <Modified>2023-04-06T01:20:30.637</Modified>
+      <Modified>2023-04-19T00:29:38.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\MemberLoanPage.xbf">
       <PackagePath>MemberLoanPage.xbf</PackagePath>
-      <Modified>2023-04-06T01:20:30.637</Modified>
+      <Modified>2023-04-19T00:29:38.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\MemberSearchPage.xbf">
       <PackagePath>MemberSearchPage.xbf</PackagePath>
-      <Modified>2023-04-06T01:20:30.637</Modified>
+      <Modified>2023-04-19T00:29:38.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -126,7 +126,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\l\Desktop\FourthS\DaibNasser Lab3\DevSA2022\Library Manager\bin\x64\Debug\Core\Library Manager.exe">
       <PackagePath>Library Manager.exe</PackagePath>
-      <Modified>2023-04-06T01:20:32.202</Modified>
+      <Modified>2023-04-19T00:29:39.065</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -17,24 +17,21 @@
         </Grid.RowDefinitions>
 
         <StackPanel Orientation="Horizontal" >
-            <AppBarButton x:ConnectionId='10' Icon="Back" Label="Back" VerticalAlignment="Center" HorizontalAlignment="Center"                            />
+            <AppBarButton x:ConnectionId='9' Icon="Back" Label="Back" VerticalAlignment="Center" HorizontalAlignment="Center"                            />
             <TextBlock Text="Books" FontSize="40" HorizontalAlignment="Left" Margin="20,0,0,0" VerticalAlignment="Center"/>
         </StackPanel>
         <ListView x:ConnectionId='2' x:Name="BooksListView" Grid.Row="1"                                                                          >
             <ListView.ItemTemplate>
                 <DataTemplate x:Name="SingleLineDataTemplate"                      >
-                    <StackPanel x:ConnectionId='5' Orientation="Vertical" Height="110" Padding="12"                                              HorizontalAlignment="Stretch">
-                        <TextBlock x:ConnectionId='6'                        Style="{ThemeResource CaptionTextBlockStyle}" Margin="0,4,0,0" FontSize="16"/>
-                        <TextBlock x:ConnectionId='7'                        Style="{ThemeResource BaseTextBlockStyle}" Margin="0,4,0,0" FontSize="14"/>
-                        <TextBlock x:ConnectionId='8'                      Style="{ThemeResource BaseTextBlockStyle}" Margin="0,4,0,0" FontSize="14"/>
-                        <TextBlock x:ConnectionId='9' Text="Available"                                   Style="{ThemeResource BaseTextBlockStyle}" Margin="0,4,0,0" FontSize="14"/>
+                    <StackPanel x:ConnectionId='4' Orientation="Vertical" Height="110" Padding="12"                                              HorizontalAlignment="Stretch">
+                        <TextBlock x:ConnectionId='5'                        Style="{ThemeResource CaptionTextBlockStyle}" Margin="0,4,0,0" FontSize="16"/>
+                        <TextBlock x:ConnectionId='6'                        Style="{ThemeResource BaseTextBlockStyle}" Margin="0,4,0,0" FontSize="14"/>
+                        <TextBlock x:ConnectionId='7'                      Style="{ThemeResource BaseTextBlockStyle}" Margin="0,4,0,0" FontSize="14"/>
+                        <TextBlock x:ConnectionId='8' Text="Available"                                   Style="{ThemeResource BaseTextBlockStyle}" Margin="0,4,0,0" FontSize="14"/>
                     </StackPanel>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button x:ConnectionId='3' Content="Add Book"                            />
-        </StackPanel>
     </Grid>
 </Page>
 

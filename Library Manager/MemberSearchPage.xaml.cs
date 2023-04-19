@@ -7,6 +7,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -65,9 +66,12 @@ namespace LibraryManager
 
         private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            if (MembersListView.SelectedIndex < 0) { return; }
             Member mb = members[MembersListView.SelectedIndex];
 
             this.Frame.Navigate(typeof(MemberLoanPage), mb.id);
+            // Clear the selected index to allow re-selecting the same member again
+            MembersListView.SelectedIndex = -1;
         }
 
         private void SearchButton_Click(object sender, RoutedEventArgs e)
@@ -76,6 +80,11 @@ namespace LibraryManager
             string id = MemberIdTextBox.Text;
 
             LoadAllMembers(name, id);
+            if (members.Count == 0)
+            {
+                var dialog = new MessageDialog("No member found.");
+                _ = dialog.ShowAsync();
+            }
         }
 
     }

@@ -82,33 +82,15 @@ namespace LibraryManager
                 // Do nothing.
             }
         }
-        private async void LoanBook(Item item)
+        private void LoanBook(Item item)
         {
-            if (item.isAvailable == true)
-            {
-                ContentDialog dialog = new ContentDialog
-                {
-                    Title = "Item Not Available",
-                    Content = "The selected item is not available for loan.",
-                    CloseButtonText = "OK"
-                };
+ 
+             LoanStore.Instance.CreateNewLoan(selectedMember, item);
 
-                await dialog.ShowAsync();
-            }
-            else
-            {
-                LoanStore.Instance.CreateNewLoan(selectedMember, item);
-
-                Frame.Navigate(typeof(MemberLoanPage), selectedMember.id);
-            }
+             Frame.Navigate(typeof(MemberLoanPage), selectedMember.id);
+            
         }
 
-        private void AddBookButton_Click(object sender, RoutedEventArgs e)
-        {
-            // TODO add book
-
-            //BookStore.Instance.AddNewBook();
-        }
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
